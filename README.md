@@ -3,13 +3,13 @@
 - 💞️ I’m looking to collaborate on bringing tech and industry exposure to teachers (and public officers)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/leekahhow/) | [Twitter](https://twitter.com/leekahhow) | [Medium](https://medium.com/@ghostleek)
 
-# Current Projects
+## Current Projects
 - [Floral Horizon](https://www.floralhorizon.sg) landing page for pottery/floral studio | updated 2026-0125
 - [Tabelog](https://tabelog.kahhow.com) aggregator for food | rebuild in-progress 2026-0127
 - iBKR AI Portfolio Advisor via Claude+CLI | local MVP in-use updated 2026-0127
 - School visitor verification/check-in | MVP updated 2026-0117
 
-# Past Projects
+## Past Projects
 - [Remarks Co-pilot](https://remarkscopilot.string.sg) writing assistant for student remarks - in maintenance, pending deprecation | [metrics](https://reports.string.sg/remarkscopilot/)
 - [CherGPT](https://github.com/String-sg/chergpt-basic) | maintenance, last updated 2025-0728 
 <!---
