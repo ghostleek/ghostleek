@@ -6,7 +6,7 @@
 ## Current Projects
 - [Floral Horizon](https://www.floralhorizon.sg) landing page for pottery/floral studio | updated 2026-0125
 - [Tabelog](https://tabelog.kahhow.com) aggregator for food | MVP Live 2026-0201
-- **iBKR AI Portfolio Advisor via Claude+CLI** | local MVP in-use updated 2026-0127
+- **AI Portfolio Advisor** IBKR + AlphaVantage + Claude| local MVP in-use updated 2026-0201
 - **School visitor verification/check-in** | MVP updated 2026-0117
 
 ## Past Projects
