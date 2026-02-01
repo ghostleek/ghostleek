@@ -5,9 +5,9 @@
 
 ## Current Projects
 - [Floral Horizon](https://www.floralhorizon.sg) landing page for pottery/floral studio | updated 2026-0125
-- [Tabelog](https://tabelog.kahhow.com) aggregator for food | rebuild in-progress 2026-0127  | [Legacy](https://tabelog-legacy.kahhow.com) Notion-as-backend
-- iBKR AI Portfolio Advisor via Claude+CLI | local MVP in-use updated 2026-0127
-- School visitor verification/check-in | MVP updated 2026-0117
+- [Tabelog](https://tabelog.kahhow.com) aggregator for food | MVP Live 2026-0201
+- **iBKR AI Portfolio Advisor via Claude+CLI** | local MVP in-use updated 2026-0127
+- **School visitor verification/check-in** | MVP updated 2026-0117
 
 ## Past Projects
 - [Remarks Co-pilot](https://remarkscopilot.string.sg) writing assistant for student remarks - in maintenance, pending deprecation | [metrics](https://reports.string.sg/remarkscopilot/)
