@@ -4,6 +4,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/leekahhow/) | [Twitter](https://twitter.com/leekahhow) | [Medium](https://medium.com/@ghostleek)
 
 ## Current Projects
+- [String](https://www.string.sg) launcher for educators | updated 2026-0213
 - [Floral Horizon](https://www.floralhorizon.sg) landing page for pottery/floral studio | updated 2026-0125
 - [Tabelog](https://tabelog.kahhow.com) aggregator for food | MVP Live 2026-0201
 - **AI Portfolio Advisor** IBKR + AlphaVantage + Claude| local MVP in-use updated 2026-0201
