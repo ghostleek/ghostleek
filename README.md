@@ -16,8 +16,9 @@
 - [Remarks Co-pilot](https://remarkscopilot.string.sg) writing assistant for student remarks - in maintenance, pending deprecation | [metrics](https://reports.string.sg/remarkscopilot/)
 - [CherGPT](https://github.com/String-sg/chergpt-basic) | maintenance, last updated 2025-0728
 
---
-![](https://komarev.com/ghpvc/?username=ghostleek&color=ff69b4) | added 2026-0307 (non-unique views)
+
+![](https://komarev.com/ghpvc/?username=ghostleek&color=ff69b4)*<br>
+added 2026-0307 (non-unique views)
 <!---
 ghostleek/ghostleek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
