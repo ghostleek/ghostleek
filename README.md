@@ -15,7 +15,7 @@
 ## Past Projects
 - [2025 GovTech Internships](https://gt-internship-2026.vercel.app/) refactor of an excel file to enable better search/ filtering | last updated 2025-0701
 - [Remarks Co-pilot](https://remarkscopilot.string.sg) writing assistant for student remarks - in maintenance, pending deprecation | [metrics](https://reports.string.sg/remarkscopilot/)
-- [CherGPT](https://github.com/String-sg/chergpt-basic) | maintenance, last updated 2025-0728
+- [CherGPT](https://github.com/String-sg/chergpt-basic) structured AI chats for classrooms, with educator control (custom instructions + RAG) and student visibility | maintenance, last updated 2025-0728
 
 
 ![](https://komarev.com/ghpvc/?username=ghostleek&color=ff69b4)*<br>
