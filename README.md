@@ -9,7 +9,7 @@
 - [us.string.sg](https://us.string.sg) receipt-style portfolio page | updated 2026-0227
 - [Floral Horizon](https://www.floralhorizon.sg) landing page for pottery/floral studio | updated 2026-0125
 - [Tabelog](https://tabelog.kahhow.com) map-based reviews of food, primarily in SG | MVP Live 2026-0201
-- **AI Portfolio Advisor** IBKR + AlphaVantage + Claude| local MVP in-use updated 2026-0201
+- **AI Portfolio Advisor** IBKR + AlphaVantage + Claude | local MVP in-use updated 2026-0201
 - **School visitor verification/check-in** | MVP updated 2026-0117
 
 ## Past Projects
