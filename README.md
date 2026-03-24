@@ -4,8 +4,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/leekahhow/) | [Twitter](https://twitter.com/leekahhow) | [Medium](https://medium.com/@ghostleek)
 
 ## Current Projects
-- [todaywelearnt.ai](https://todaywelearnt.ai) photo-based learning powered by research-backed memory techniques| updated 2026-0322
-- [String](https://www.string.sg) launcher for educators | updated 2026-0321
+- [todaywelearnt.ai](https://todaywelearnt.ai) photo-based learning powered by research-backed memory techniques| updated 2026-0324
+- [String](https://www.string.sg) launcher for educators | updated 2026-0324
 - [us.string.sg](https://us.string.sg) receipt-style portfolio page | updated 2026-0227
 - [Floral Horizon](https://www.floralhorizon.sg) landing page for pottery/floral studio | updated 2026-0125
 - [Tabelog](https://tabelog.kahhow.com) map-based reviews of food, primarily in SG | MVP Live 2026-0201
