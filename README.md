@@ -4,6 +4,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/leekahhow/) | [Twitter](https://twitter.com/leekahhow) | [Medium](https://medium.com/@ghostleek)
 
 ## Current Projects
+- **StringClaw** - Nanoclaw for community building | updated 2026-0521
 - [todaywelearnt.ai](https://todaywelearnt.ai) photo-based learning powered by research-backed memory techniques| updated 2026-0324
 - [String](https://www.string.sg) launcher for educators | updated 2026-0324
 - [us.string.sg](https://us.string.sg) receipt-style portfolio page | updated 2026-0227
