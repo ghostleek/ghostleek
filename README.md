@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kahhow
-- 🌱 I’m currently learning to be a **technical product manager** (learning basics of software engineering while actively building products)
-- 💞️ I’m looking to collaborate on bringing tech and industry exposure to teachers (and public officers)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/leekahhow/) | [Twitter](https://twitter.com/leekahhow) | [Medium](https://medium.com/@ghostleek)
+🌱 Currently learning to be AI-enabled **technical product manager + ecosystem builder** (learning basics of software engineering while actively building products and a community focused on edutech)
+💞️ Looking to collaborate on bringing tech and industry exposure to educators, primarily in Singapore/ Southeast Asia
+📫 To reach me: [Linkedin](https://www.linkedin.com/in/leekahhow/) | [Twitter](https://twitter.com/leekahhow) | [Medium](https://medium.com/@ghostleek)
 
 ## Current Projects
 - **StringClaw** - Nanoclaw for community building, powering Telegram-WA interactions | updated 2026-1003
