@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kahhow
-🌱 Currently learning to be AI-enabled **technical product manager + ecosystem builder** (learning basics of software engineering while actively building products and a community focused on edutech)
-💞️ Looking to collaborate on bringing tech and industry exposure to educators, primarily in Singapore/ Southeast Asia
+🌱 Currently learning to be AI-enabled **technical product manager + ecosystem builder** (learning basics of software engineering while actively building products and a community focused on edutech) <br>
+💞️ Looking to collaborate on bringing tech and industry exposure to educators, primarily in Singapore/ Southeast Asia <br>
 📫 To reach me: [Linkedin](https://www.linkedin.com/in/leekahhow/) | [Twitter](https://twitter.com/leekahhow) | [Medium](https://medium.com/@ghostleek)
 
 ## Current Projects
