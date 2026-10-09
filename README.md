@@ -4,10 +4,10 @@
 📫 To reach me: [Linkedin](https://www.linkedin.com/in/leekahhow/) | [Twitter](https://twitter.com/leekahhow) | [Medium](https://medium.com/@ghostleek)
 
 ## Current Projects
-- **StringClaw** - Nanoclaw for community building, powering Telegram-WA interactions | updated 2026-1003
-- [todaywelearnt.ai](https://todaywelearnt.ai) photo-based learning powered by research-backed memory techniques| updated 2026-0324
 - [String](https://www.string.sg) educator-first, edutech ecosystem builder | updated 2026-1003
-- [Tabelog](https://tabelog.kahhow.com) map-based reviews of food, primarily in SG | MVP Live 2026-0201
+- [StringID](https://www.id.string.sg) - Nanoclaw for community building, powering Telegram-WA interactions | updated 2026-1008
+- [StringClaw](https://www.string.sg/products/stringclaw) - Nanoclaw for community building, powering Telegram-WA interactions | updated 2026-1008
+- [Tabelog](https://tabelog.kahhow.com) map-based reviews of food, primarily in SG, gmaps import | MVP Live 2026-0201
 - **TeleCal** - Cron job for automated notifications from gcal to a private Telegram group
 - **AI Portfolio Advisor** IBKR + AlphaVantage + Claude | local MVP in-use updated 2026-0201
 
