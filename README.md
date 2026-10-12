@@ -5,7 +5,7 @@
 
 ## Current Projects
 - [String](https://www.string.sg) educator-first, edutech ecosystem builder | updated 2026-1003
-- [StringID](https://www.id.string.sg) - Nanoclaw for community building, powering Telegram-WA interactions | updated 2026-1008
+- [StringID](https://www.id.string.sg) - verification layer for String for easy provisioning, deprovisoning | updated 2026-1011
 - [StringClaw](https://www.string.sg/products/stringclaw) - Nanoclaw for community building, powering Telegram-WA interactions | updated 2026-1008
 - [Tabelog](https://tabelog.kahhow.com) map-based reviews of food, primarily in SG, gmaps import | MVP Live 2026-0201
 - **TeleCal** - Cron job for automated notifications from gcal to a private Telegram group
