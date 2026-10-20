@@ -16,10 +16,11 @@
 - [Remarks Co-pilot](https://remarkscopilot.string.sg) writing assistant for student remarks | last updated 2024-0528 maintenance, deprecating Mar 2026 [metrics](https://reports.string.sg/remarkscopilot/)
 - [CherGPT](https://github.com/String-sg/chergpt-basic) structured AI chats for classrooms, with educator control (custom instructions + RAG) and student visibility | maintenance, last updated 2025-0728
 
-https://komarev.com/ghpvc/?username=ghostleek&color=ff69b4&style=flat
+![Profile views](https://hits.sh/github.com/ghostleek.svg?label=Profile%20views&color=ff69b4&extraCount=264)
 <br>
 Added 2026-03-07 (non-unique views)
 <!---
 ghostleek/ghostleek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://hit.yhype.me/github/profile?account_id=44336310)
